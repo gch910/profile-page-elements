@@ -1,0 +1,22 @@
+h1.name {
+    font-size: 3em;
+    color: darkgreen;
+    padding: 20px 20px;
+}
+
+#info {
+    border: 1px solid black;
+    padding: 40px;
+}
+
+.detail {
+    color: darkgreen;
+    padding: 10px;
+    font-size: 150%;
+
+}
+
+#my-photo {
+    height: 300px;
+    width: 250px;
+}
